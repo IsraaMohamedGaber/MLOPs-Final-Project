@@ -25,6 +25,6 @@ jobs:
         run: railway login --token ${{ secrets.RAILWAY_TOKEN }}
 
       - name: Deploy to Railway
-        run: railway up --detach --project ${{ secrets.7ba8d798-3a7c-43f9-b95e-b8f0447dcc45 }}
+        run: railway up --detach --project ${{ secrets.2d4f391d-03ae-49f4-9427-9f76f77a6237 }}
           
           
