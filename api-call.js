@@ -1,4 +1,4 @@
-const API_URL = "https://mlops-final-project-production-b801.up.railway.app//predict";
+const API_URL = "https://maze-gesture-backend-production.up.railway.app/predict";
 
 // Helper to normalize the 63-length landmark array
 function normalizeLandmarks(landmarks) {
